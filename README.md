@@ -4,15 +4,13 @@
 
 ### 💻 Full Stack Developer
 
-<a href="https://github.com/Vigneshachu">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Modern+Web+Applications;Always+Learning+%26+Improving;Turning+Ideas+Into+Reality+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Modern+Web+Applications;Learning+%26+Growing+Every+Day;Turning+Ideas+Into+Reality+%F0%9F%9A%80" alt="Typing SVG" />
 
-<br/>
-
-<a href="https://github.com/Vigneshachu">
-  <img src="https://komarev.com/ghpvc/?username=Vigneshachu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</a>
+<p>
+  <a href="https://github.com/Vigneshachu">
+    <img src="https://komarev.com/ghpvc/?username=Vigneshachu&label=Profile%20Views&style=flat" alt="Profile Views" />
+  </a>
+</p>
 
 </div>
 
@@ -20,85 +18,69 @@
 
 ## 🚀 About Me
 
-```javascript
-const vignesh = {
-    name: "Vignesh P K",
-    username: "Vigneshachu",
-    role: "Full Stack Developer",
-    passion: "Building modern and useful web applications",
-    learning: "Always exploring new technologies",
-    goal: "Create scalable, clean and user-friendly applications",
-    status: "Open to learning & collaboration 🚀"
-};
-```
+I'm **Vignesh P K**, a **Full Stack Developer** passionate about creating modern, responsive, and user-friendly web applications.
 
-* 💻 Full Stack Developer passionate about web development
-* 🚀 Interested in building real-world applications
-* 🌱 Constantly learning and improving my development skills
-* 🧠 Enjoy solving problems through code
-* 🤝 Open to collaboration and interesting projects
+* 💻 Full Stack Developer
+* 🚀 Building real-world web applications
+* 🌱 Continuously learning new technologies
+* 🧠 Interested in problem solving and clean code
+* 🤝 Open to collaboration and new opportunities
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🎨 Frontend
+### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
-### ⚙️ Backend
+### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python" />
 </p>
 
-### 🗄️ Database
+### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-### 🔧 Tools & Technologies
+### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
 </p>
-
-### 📚 Also Interested In
-
-`REST APIs` • `Responsive Design` • `Web Development` • `Software Development`
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 ### 💰 Finance
 
-A finance-related web application focused on managing and working with financial information.
+A finance-focused application built as part of my development projects.
 
-🔗 **Repository:**
-https://github.com/Vigneshachu/finance
-
----
+**Repository:**
+👉 https://github.com/Vigneshachu/finance
 
 ### 📊 SmartFinance
 
-A smart finance project designed around financial management and application development.
+A finance application project focused on building practical web-based solutions.
 
-🔗 **Repository:**
-https://github.com/Vigneshachu/smartfinance
+**Repository:**
+👉 https://github.com/Vigneshachu/smartfinance
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vigneshachu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Vigneshachu&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vigneshachu&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vigneshachu&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
 
@@ -114,7 +96,7 @@ https://github.com/Vigneshachu/smartfinance
 
 ---
 
-## 🐍 Contribution Activity
+## 🐍 Contribution Graph
 
 <div align="center">
 
@@ -124,42 +106,29 @@ https://github.com/Vigneshachu/smartfinance
 
 ---
 
-## 🎯 2026 Goals
+## 🎯 Goals
 
-```text
-☑ Build real-world applications
-☑ Improve Full Stack development skills
-☑ Learn advanced backend development
-☑ Build and deploy more projects
-☑ Contribute to open-source projects
-☑ Keep learning new technologies
-```
+* 🚀 Build and deploy real-world applications
+* 💡 Improve full-stack development skills
+* ⚙️ Learn advanced backend technologies
+* 🌐 Create scalable web applications
+* 🤝 Contribute to open-source projects
 
 ---
 
-## 💼 Developer Mindset
-
-<div align="center">
-
-> "Code. Learn. Build. Improve. Repeat. 🚀"
-
-</div>
-
----
-
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/Vigneshachu">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<!-- Add your LinkedIn URL here -->
+<!-- Add your LinkedIn profile below -->
 
 <!--
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 -->
 
@@ -169,8 +138,8 @@ https://github.com/Vigneshachu/smartfinance
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### 💙 Thanks for visiting my profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+**⭐ Feel free to explore my repositories and projects.**
 
 </div>
